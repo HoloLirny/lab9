@@ -26,7 +26,7 @@ int main(){
              cout<<"Your character = Sanji";
              return 0;
         }
-    }else if(y<=60){
+    }else if(y<60){
         cout<<"Enter your bounty: ";
         cin>>b;
         if(b>500000000){
